@@ -1,0 +1,16 @@
+{
+    "name": "employeetracker",
+    "version": "1.0.0",
+    "description": "A simple content management system",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "",
+    "dependencies": {
+      "console.table": "^0.10.0",
+      "inquirer": "^8.2.4",
+      "mysql2": "^2.2.5"
+    }
+  }
